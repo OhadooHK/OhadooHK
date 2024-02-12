@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OhadooHK
 - 👀 I’m interested in Electronics, Embedded systems & programming  
 - 🌱 I’m currently learning FPGA & Verilog using Sipeed Tang nano
-- 💞️ I’m  looking to collaborate on "I don't know"
+- 💞️ I’m  looking to collaborate on " anything Electronics"
 - 📫 How to reach me ...
 
 <!---
